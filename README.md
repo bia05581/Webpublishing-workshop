@@ -37,6 +37,6 @@ You can find this lesson [here](https://carpentries-incubator.github.io/jekyll-p
 1. Less formatting than HTML
 2. Easy to read even with formatting
 3. Commonly used for websites and software development
-4. We ~~dont~~ use it in The Carpentries
+4. We ~~dont~~ use it in The Carpentries (use double tildas "~" for strikethroughs)
 
 ![Carpentries Logo](https://github.com/carpentries/carpentries.org/raw/main/images/TheCarpentries-opengraph.png)
