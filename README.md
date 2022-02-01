@@ -40,3 +40,4 @@ You can find this lesson [here](https://carpentries-incubator.github.io/jekyll-p
 4. We ~~dont~~ use it in The Carpentries (use double tildas "~" for strikethroughs)
 
 ![Carpentries Logo](https://github.com/carpentries/carpentries.org/raw/main/images/TheCarpentries-opengraph.png)
+Present link as a picture by adding an exclamation point in the front^
